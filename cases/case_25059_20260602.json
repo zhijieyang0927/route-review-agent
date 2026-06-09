@@ -1,0 +1,28 @@
+{
+  "orders": [
+    {
+      "order_id": "US4932452957",
+      "courier_id": "25059",
+      "vehicle_type": "电动车",
+      "accepted_at": "2026-06-02 13:56:45",
+      "arrived_store_at": "2026-06-02 14:06:18",
+      "picked_up_at": "2026-06-02 14:06:20",
+      "delivered_at": "2026-06-02 15:13:49",
+      "accept_address": "Flushing Bridge, College Point Blvd and Northern Blvd, Flushing, NY",
+      "pickup_address": "4024 College Point Blvd Level B, Flushing, NY 11354",
+      "dropoff_address": "149-12 21st Avenue, Flushing, NY 11357, USA"
+    },
+    {
+      "order_id": "US0590379572",
+      "courier_id": "25059",
+      "vehicle_type": "电动车",
+      "accepted_at": "2026-06-02 14:01:18",
+      "arrived_store_at": "2026-06-02 14:14:23",
+      "picked_up_at": "2026-06-02 14:14:24",
+      "delivered_at": "2026-06-02 14:52:27",
+      "accept_address": "Prince St and 38th Ave, Flushing, NY 11354",
+      "pickup_address": "136-20 Roosevelt Ave, Flushing, NY 11354",
+      "dropoff_address": "14-16B Clintonville Street, Queens, NY 11357, USA"
+    }
+  ]
+}

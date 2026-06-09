@@ -1,0 +1,4 @@
+order_id,courier_id,vehicle_type,accepted_at,arrived_store_at,picked_up_at,delivered_at,accept_address,pickup_name,pickup_address,dropoff_address,expected_accept_to_store_min,expected_pickup_to_dropoff_min
+1001,C888,bike,2026-06-04 18:30:00,2026-06-04 18:48:00,2026-06-04 18:53:00,2026-06-04 19:18:00,"350 5th Ave, New York, NY","Demo Restaurant","20 W 34th St, New York, NY","200 W 40th St, New York, NY",6,9
+1002,C888,bike,2026-06-04 18:33:00,2026-06-04 18:50:00,2026-06-04 18:55:00,2026-06-04 19:05:00,"350 5th Ave, New York, NY","Second Restaurant","30 W 35th St, New York, NY","500 8th Ave, New York, NY",7,8
+

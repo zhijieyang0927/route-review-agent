@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+python3 -m route_review_agent.cli review
+
