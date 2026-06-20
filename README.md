@@ -64,6 +64,12 @@ python3 -m route_review_agent.cli chat --result reports/生成的结果.json
 
 可问：`总结`、`异常时间线`、`高风险`、`证据不足`、`建议核查`。
 
+## 后台排班操作规则
+
+如果要继续使用 Codex 协助处理下周班表、Flushing/BK 区域选择、送餐员编号识别、添加/删除班次、保存并发布等后台操作，请参考：
+
+- `docs/schedule_booking_workflow.md`
+
 ## CSV 高级用法
 
 如果之后你想批量处理 BI 表格，也仍然支持 CSV：
